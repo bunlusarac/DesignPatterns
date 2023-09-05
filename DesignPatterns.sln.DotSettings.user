@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Singleton.LazyStaticConstructorSingletonTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Singleton.PartiallyLazyStaticConstructorSingletonTest.PartiallyLazyStaticConstructorSingleton_AccessingStaticMemberShouldInstantiate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Command.BuyItemCommandTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
