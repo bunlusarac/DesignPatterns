@@ -8,6 +8,7 @@
       &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketNaiveTest.TicketNaive_ChildTypesHaveExpectedValues&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketNaiveTest&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketSemiNaiveTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.NullObject.NullObjectTest&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;F813EDFB-7B86-416D-8A5C-4371F1F8C8CA/d:Behavioral/d:Bridge/f:TicketTest.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
