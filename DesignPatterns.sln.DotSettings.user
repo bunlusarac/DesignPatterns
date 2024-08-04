@@ -1,15 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7815cead_002De6e4_002D4867_002D84e8_002D4ffd1e3141c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LazyStaticConstructorSingletonTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Singleton.LazyStaticConstructorSingletonTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Singleton.PartiallyLazyStaticConstructorSingletonTest.PartiallyLazyStaticConstructorSingleton_AccessingStaticMemberShouldInstantiate&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Command.BuyItemCommandTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketNaiveTest.TicketNaive_ChildTypesHaveExpectedValues&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketNaiveTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.Bridge.TicketSemiNaiveTest&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;xUnit::F813EDFB-7B86-416D-8A5C-4371F1F8C8CA::net7.0::DesignPatterns.Test.Behavioral.NullObject.NullObjectTest&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;ProjectFile&gt;F813EDFB-7B86-416D-8A5C-4371F1F8C8CA/d:Behavioral/d:Bridge/f:TicketTest.cs&lt;/ProjectFile&gt;&#xD;
-  &lt;/Or&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7815cead_002De6e4_002D4867_002D84e8_002D4ffd1e3141c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LazyStaticConstructorSingletonTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/baris.unlusarac/RiderProjects/DesignPatterns/DesignPatterns.Test" Presentation="&amp;lt;DesignPatterns.Test&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

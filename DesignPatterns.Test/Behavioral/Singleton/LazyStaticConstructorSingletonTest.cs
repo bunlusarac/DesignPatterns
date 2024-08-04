@@ -31,6 +31,7 @@ public class LazyStaticConstructorSingletonTest
     public void LazyStaticConstructorSingleton_AccessingStaticMemberShouldNotInstantiate()
     {
         var staticMember = LazyStaticConstructorSingleton.TestStaticMember;
-        Assert.NotNull(LazyStaticConstructorSingleton.Instance);
+        var instance = LazyStaticConstructorSingleton.Instance;
+        Assert.NotNull(instance);
     }
 }

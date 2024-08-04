@@ -2,7 +2,7 @@ using DesignPatterns.Behavioral.Singleton;
 
 namespace DesignPatterns.Test.Behavioral.Singleton;
 
-public class NaiveSingletonTests
+public class NaiveSingletonTest
 {
     [Fact]
     public void NaiveSingleton_ShouldInstantiateOnce()

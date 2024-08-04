@@ -19,7 +19,7 @@ public class Ticket
         PurchaseTime = DateTime.UtcNow;
     }
 
-    private decimal GetDiscountRate() => _discountType switch
+    private decimal DiscountRate => _discountType switch
     {
         PregnantCitizen => 0.5m,
         RetiredCitizen => 0.8m,
@@ -28,7 +28,7 @@ public class Ticket
         _ => throw new InvalidOperationException()
     };
     
-    public decimal GetPrice() => BasePrice * (1 - GetDiscountRate());
+    public decimal GetPrice() => BasePrice * (1 - DiscountRate);
     
     public DateTime? GetExpiration() => _ticketLifetime switch
     {
